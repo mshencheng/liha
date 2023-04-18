@@ -20,7 +20,7 @@ import java.util.List;
  *               -- 2022/10/5
  */
 public class AllConfig {
-    public static final String cron = "0 50 21 * * ?"; //分别代表：秒、分、时、日、月、星期
+    public static final String cron = "0 45 21 * * ?"; //分别代表：秒、分、时、日、月、星期
     public static final String VxAppId = "wx99648deb20dbb1cc";
     public static final String VxAppSecret = "f4b4d9aac5b04431a86144e07c29706e";
     public static final String WeatherKey = "a309d9e7d37e847de48246a74637fd26";
